@@ -1,6 +1,6 @@
 """Um adendo neste código:
     Para diferenciar um pouco do que foi pedido - mas ainda fazendo o solicitado, optei por utilizar uma
-    nova funcionalidade em python, que foi introduzida a pouco: O Match Case. Ela elimina a necessiade de
+    nova funcionalidade em python, que foi introduzida na versão 3.11: O Match Case. Ela elimina a necessiade de
     montar um menu que se utiliza de ifs, elifs e elses para funcionar - melhorando a legibilidade do código."""
 
 
